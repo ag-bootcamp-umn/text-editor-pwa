@@ -45,7 +45,7 @@ export const getDb = async () => {
 
   const tx = openDb.transaction(DB_NAME, 'readonly');
 
-  const jStore = tx.objectStore(DB_NAME);
+  const store = tx.objectStore(DB_NAME);
 
   // Leave the rest as-is
   const request = store.get(1);
