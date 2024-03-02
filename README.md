@@ -17,7 +17,13 @@ A Progressive Web App text editor taht can be used online or offline.
 
 ## Installation
 
+### Option 1: Install Locally:
+
 Clone the repository. Open the root directory in the termainal and run the commands `npm install` and `npm start`.
+
+### Options 2: Install from the app deployed on Heroku
+
+Visit the app at [https://dashboard.heroku.com/apps/shrouded-oasis-54026](https://dashboard.heroku.com/apps/shrouded-oasis-54026)
 
 ## Usage
 
