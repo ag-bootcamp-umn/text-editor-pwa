@@ -23,7 +23,7 @@ Clone the repository. Open the root directory in the termainal and run the comma
 
 ### Options 2: Install from the app deployed on Heroku
 
-Visit the app at [https://dashboard.heroku.com/apps/shrouded-oasis-54026](https://dashboard.heroku.com/apps/shrouded-oasis-54026)
+Visit the app at [https://shrouded-oasis-54026-ea2a58e13252.herokuapp.com/](https://shrouded-oasis-54026-ea2a58e13252.herokuapp.com/)
 
 ## Usage
 
